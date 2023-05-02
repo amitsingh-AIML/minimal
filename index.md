@@ -19,6 +19,6 @@ This case study is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amitsingh-AIML/pycodes)
 
-<center><img src="assets/1522112058979.png "/></center>
+<center><img src="assets/loan_image.png "/></center>
 
 ```
